@@ -1,3 +1,3 @@
 ## Who am I? | من کیستم؟
 
-<img align="center" src="https://github.com/user-attachments/assets/800427bf-0639-4a11-b585-c42ea282d370)">
+<img align="center" src="https://github.com/user-attachments/assets/fd475fb0-4630-425d-95f9-bc156bdec0b0">
