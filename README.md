@@ -12,4 +12,9 @@
 
 <h2 align="right">ارتباط با من☎️:</h2>
 
-<a href="https://instagram.com/seyyedmohammad_jafari/"><img src="https://github.com/SeyyedMohammadJafari/SeyyedMohammadJafari/blob/main/Logo/icons8-instagram-48.png?raw=true"></a> <a href="https://t.me/M_I6MAN"><img src="https://github.com/SeyyedMohammadJafari/SeyyedMohammadJafari/blob/main/Logo/icons8-telegram-48.png?raw=true"></a>
+<a href="https://instagram.com/seyyedmohammad_jafari/"><img src="https://github.com/SeyyedMohammadJafari/SeyyedMohammadJafari/blob/main/Logo/icons8-instagram-48.png?raw=true"></a>   <a href="https://t.me/M_I6MAN"><img src="https://github.com/SeyyedMohammadJafari/SeyyedMohammadJafari/blob/main/Logo/icons8-telegram-48.png?raw=true"></a>
+
+<h2 align="right">در حال حاضر مشغول این کار ها هستم🌱: | :🌱Now I am busy with these things</h2>
+<h3 align="left">🌐 HTML</h3>
+<h3 align="left">🌐 CSS</h3>
+<h3 align="left">🌐 Java Script</h3>
